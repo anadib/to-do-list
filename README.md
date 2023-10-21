@@ -1,29 +1,30 @@
-# todo_list_project
+<h1 align="center">
+ To-do List
+</h1>
 
-This template should help get you started developing with Vue 3 in Vite.
+![](https://github.com/anadib/to-do-list/blob/main/gifs/todolistDesktop.gif?raw=true)
+[See Mobile](https://github.com/anadib/to-do-list/blob/main/gifs/todolistMobile.gif)
 
-## Recommended IDE Setup
+<p align="center">
+  <a href="#page_with_curl-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#hammer-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+</br>
 
-## Customize configuration
+## :page_with_curl: About
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+This repository contains a to-do list project built with Vue.js 3. 
 
-## Project Setup
+In this to-do list project, users can add new tasks, remove existing ones, and check off tasks that are completed.
 
-```sh
-npm install
-```
+## :hammer: Technologies
 
-### Compile and Hot-Reload for Development
+This project was developed with the following technologies:
 
-```sh
-npm run dev
-```
+- [Vue.js](https://vuejs.org/guide/introduction.html)
+- [Feather Icons](https://feathericons.com/)
 
-### Compile and Minify for Production
+</br>
 
-```sh
-npm run build
-```
+Made with ❤️ by Ana Dib 👋🏻 [Get in touch](https://github.com/anadib)
